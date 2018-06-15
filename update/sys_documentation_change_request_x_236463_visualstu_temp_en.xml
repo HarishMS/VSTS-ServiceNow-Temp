@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_236463_visualstu_temp" label="Temp" language="en" table="change_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_236463_visualstu_temp</element>
+            <help/>
+            <hint/>
+            <label>Temp</label>
+            <language>en</language>
+            <name>change_request</name>
+            <plural>Temps</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-15 08:33:23</sys_created_on>
+            <sys_id>230da7004f721300c290704ca310c727</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Temp</sys_name>
+            <sys_package display_value="VisualStudioTeamsServices" source="x_236463_visualstu">5167d3404f321300c290704ca310c743</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VisualStudioTeamsServices">5167d3404f321300c290704ca310c743</sys_scope>
+            <sys_update_name>sys_documentation_change_request_x_236463_visualstu_temp_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-15 08:33:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

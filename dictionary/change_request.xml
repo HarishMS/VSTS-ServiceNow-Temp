@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Change Request" max_length="40" name="change_request" sizeclass="110" text_index="true" type="collection">
+        <element label="Temp" max_length="10" name="x_236463_visualstu_temp" type="string"/>
+    </element>
+</database>
